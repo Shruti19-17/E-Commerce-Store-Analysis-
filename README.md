@@ -3,4 +3,5 @@ A data analytics project that explores sales performance, customer behavior, and
 
 ## 📂 Dataset
 The dataset used in this project can be accessed here:  
-https://github.com/Shruti19-17/E-Commerce-Store-Analysis-/blob/main/Orders.csv
+(https://github.com/Shruti19-17/E-Commerce-Store-Analysis-/blob/main/Orders.csv)
+(https://github.com/Shruti19-17/E-Commerce-Store-Analysis-/blob/main/Details.csv)
